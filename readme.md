@@ -16,7 +16,7 @@ LICENSE: [MIT](./license.md)
 7. [git show](./show.md)
 8. [git branch](./branch.md)
 9. [git remote add](./remote%20add)
-10.[git push](./push.md)
+10. [git push](./push.md)
 
 ---
 
