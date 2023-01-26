@@ -8,16 +8,15 @@ LICENSE: [MIT](./license.md)
 ### ***Содержание***
 
 1. [Введение](./%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.md) 
-2. [git config](./config.add)
-3. [git init](./init.md)
-4. [git add](./add.md)
-5. [git status](./status.md)
-6. [git commit](commit.md)
-7. [git log -p](./log.md)
-8. [git show](./show.md)
-9. [git branch](./branch.md)
-10. [git remote add](./remote%20add)
-
+2. [git init](./init.md)
+3. [git add](./add.md)
+4. [git status](./status.md)
+5. [git commit](commit.md)
+6. [git log -p](./log.md)
+7. [git show](./show.md)
+8. [git branch](./branch.md)
+9. [git remote add](./remote%20add)
+10.[git push](./push.md)
 
 ---
 
